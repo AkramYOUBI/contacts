@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="search_editText">Search</string>
+    <string name="add_button">+</string>
+</resources>
